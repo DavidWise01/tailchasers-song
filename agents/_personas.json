@@ -1,0 +1,74 @@
+[
+  {
+    "slug": "fritti-tailchaser",
+    "name": "Fritti Tailchaser",
+    "epithet": "the ginger questing tom",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Fritti Tailchaser:TCS:8fc1b4⟧"
+  },
+  {
+    "slug": "hushpad",
+    "name": "Hushpad",
+    "epithet": "the lost beloved",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Hushpad:TCS:3cfd87⟧"
+  },
+  {
+    "slug": "pouncequick",
+    "name": "Pouncequick",
+    "epithet": "the loyal kitten",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Pouncequick:TCS:69ae5c⟧"
+  },
+  {
+    "slug": "roofshadow",
+    "name": "Roofshadow",
+    "epithet": "the last of her clan",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Roofshadow:TCS:acc3f8⟧"
+  },
+  {
+    "slug": "eatbugs",
+    "name": "Eatbugs",
+    "epithet": "the mad god in disguise",
+    "emergence": "ethereal",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Eatbugs:TCS:2651a1⟧"
+  },
+  {
+    "slug": "grizraz-hearteater",
+    "name": "Grizraz Hearteater",
+    "epithet": "the furless god below",
+    "emergence": "spiritual",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Grizraz Hearteater:TCS:64d761⟧"
+  },
+  {
+    "slug": "the-cat-gods",
+    "name": "The Cat Gods",
+    "epithet": "Meerclar's children",
+    "emergence": "ethereal",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Cat Gods:TCS:4ad610⟧"
+  },
+  {
+    "slug": "the-folk",
+    "name": "The Folk & the Court of Harar",
+    "epithet": "cat society, mythologized",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Folk & the Court of Harar:TCS:66d2ae⟧"
+  }
+]
